@@ -1,0 +1,208 @@
+
+Questao 1: 
+
+Posicao: 0 / numero: 762.0
+Posicao: 1 / numero: 574.0
+Posicao: 2 / numero: 805.0
+Posicao: 3 / numero: 710.0
+Posicao: 4 / numero: 763.0
+Posicao: 5 / numero: 588.0
+Posicao: 6 / numero: 138.0
+Posicao: 7 / numero: 820.0
+Posicao: 8 / numero: 460.0
+Posicao: 9 / numero: 543.0
+Posicao: 10 / numero: 109.0
+Posicao: 11 / numero: 339.0
+Posicao: 12 / numero: 331.0
+Posicao: 13 / numero: 244.0
+Posicao: 14 / numero: 841.0
+Posicao: 15 / numero: 969.0
+Posicao: 16 / numero: 922.0
+Posicao: 17 / numero: 815.0
+Posicao: 18 / numero: 671.0
+Posicao: 19 / numero: 878.0
+Posicao: 20 / numero: 909.0
+Posicao: 21 / numero: 678.0
+Posicao: 22 / numero: 124.0
+Posicao: 23 / numero: 123.0
+Posicao: 24 / numero: 656.0
+Posicao: 25 / numero: 873.0
+Posicao: 26 / numero: 704.0
+Posicao: 27 / numero: 279.0
+Posicao: 28 / numero: 812.0
+Posicao: 29 / numero: 845.0
+Posicao: 30 / numero: 403.0
+Posicao: 31 / numero: 10.0
+Posicao: 32 / numero: 117.0
+Posicao: 33 / numero: 996.0
+Posicao: 34 / numero: 877.0
+Posicao: 35 / numero: 61.0
+Posicao: 36 / numero: 314.0
+Posicao: 37 / numero: 903.0
+Posicao: 38 / numero: 966.0
+Posicao: 39 / numero: 823.0
+Posicao: 40 / numero: 16.0
+Posicao: 41 / numero: 79.0
+Posicao: 42 / numero: 588.0
+Posicao: 43 / numero: 171.0
+Posicao: 44 / numero: 435.0
+Posicao: 45 / numero: 541.0
+Posicao: 46 / numero: 81.0
+Posicao: 47 / numero: 783.0
+Posicao: 48 / numero: 115.0
+Posicao: 49 / numero: 274.0
+Posicao: 50 / numero: 754.0
+Posicao: 51 / numero: 481.0
+Posicao: 52 / numero: 198.0
+Posicao: 53 / numero: 865.0
+Posicao: 54 / numero: 731.0
+Posicao: 55 / numero: 475.0
+Posicao: 56 / numero: 300.0
+Posicao: 57 / numero: 220.0
+Posicao: 58 / numero: 187.0
+Posicao: 59 / numero: 532.0
+Posicao: 60 / numero: 766.0
+Posicao: 61 / numero: 258.0
+Posicao: 62 / numero: 718.0
+Posicao: 63 / numero: 225.0
+Posicao: 64 / numero: 940.0
+Posicao: 65 / numero: 954.0
+Posicao: 66 / numero: 902.0
+Posicao: 67 / numero: 409.0
+A media da primeira é: 540.4852941176471
+
+Questao 2: 
+
+Número escolhido: 8624411
+E ele é impar.
+
+Questao 3: 
+
+O valor do raio é: 91.0
+O valor do volume é : 2367413.117558314
+
+Questao 4: 
+
+A quilometragem inicial, final e quantidade de gasolina são, respectivamente: 69, 98361 e 793.0.
+O consumo medio é 123.94955863808323
+
+
+Questao 5: 
+
+Os numeros doubles escolhidos foram: 75494.0 e 92601.0.
+
+A soma é: 168095.0
+A subtração é: -17107.0
+A divisão é: 0.8152611742853749
+A multiplicação é: 6.990819894E9
+
+Questao 6: 
+
+Nota do trabalho: 10.0
+Nota da prova: 11.0
+
+A média é 10.00
+
+
+Questao 7: 
+
+Funcionario 1: R$6715.0
+Funcionario 2: R$7701.0
+Funcionario 3: R$4352.0
+Funcionario 4: R$1030.0
+Funcionario 5: R$4698.0
+Funcionario 6: R$4148.0
+Funcionario 7: R$6834.0
+Funcionario 8: R$5310.0
+Funcionario 9: R$6693.0
+Funcionario 10: R$5205.0
+
+O total a ser pago: 52686.0, e a media dos salarios é: 5268.6
+
+
+Questao 8: 
+
+Valor total das vendas por mes:
+
+Mes 1: R$5149.0
+Mes 2: R$7529.0
+Mes 3: R$4288.0
+Mes 4: R$3752.0
+Mes 5: R$5819.0
+Mes 6: R$3362.0
+Mes 7: R$3869.0
+Mes 8: R$6855.0
+Mes 9: R$2665.0
+Mes 10: R$6972.0
+Mes 11: R$1799.0
+Mes 12: R$6131.0
+
+Valores pagos de comissão por mes:
+
+Mes: 1.0 / Total da comissão: 420.16
+Mes: 2.0 / Total da comissão: 614.37
+Mes: 3.0 / Total da comissão: 349.90
+Mes: 4.0 / Total da comissão: 306.16
+Mes: 5.0 / Total da comissão: 474.83
+Mes: 6.0 / Total da comissão: 274.34
+Mes: 7.0 / Total da comissão: 315.71
+Mes: 8.0 / Total da comissão: 559.37
+Mes: 9.0 / Total da comissão: 217.46
+Mes: 10.0 / Total da comissão: 568.92
+Mes: 11.0 / Total da comissão: 146.80
+Mes: 12.0 / Total da comissão: 500.29
+
+Valores pagos de comissão do menor para o maior:
+
+Mes: 11 / Total da comissão: 146.80
+Mes: 9 / Total da comissão: 217.46
+Mes: 6 / Total da comissão: 274.34
+Mes: 4 / Total da comissão: 306.16
+Mes: 7 / Total da comissão: 315.71
+Mes: 3 / Total da comissão: 349.90
+Mes: 1 / Total da comissão: 420.16
+Mes: 5 / Total da comissão: 474.83
+Mes: 12 / Total da comissão: 500.29
+Mes: 8 / Total da comissão: 559.37
+Mes: 10 / Total da comissão: 568.92
+Mes: 2 / Total da comissão: 614.37
+
+Questao 9: 
+
+Os valores que os funcionarios pagaram de imposto é: 
+
+Mes: 11 / Valor liquido é: 139.46
+Mes: 9 / Valor liquido é: 206.59
+Mes: 6 / Valor liquido é: 260.62
+Mes: 4 / Valor liquido é: 290.86
+Mes: 7 / Valor liquido é: 299.92
+Mes: 3 / Valor liquido é: 332.41
+Mes: 1 / Valor liquido é: 399.15
+Mes: 5 / Valor liquido é: 451.09
+Mes: 12 / Valor liquido é: 475.28
+Mes: 8 / Valor liquido é: 531.40
+Mes: 10 / Valor liquido é: 540.47
+Mes: 2 / Valor liquido é: 583.65
+
+Questao 10: 
+
+O peso das pessoas:
+Pessoa: 1 / Peso: 126.0 / Altura: 1.8572389309998552
+Pessoa: 2 / Peso: 120.0 / Altura: 1.6375132912388863
+Pessoa: 3 / Peso: 69.0 / Altura: 2.0907841450362694
+Pessoa: 4 / Peso: 55.0 / Altura: 1.4589199682158835
+Pessoa: 5 / Peso: 58.0 / Altura: 1.829054492033061
+Pessoa: 6 / Peso: 82.0 / Altura: 1.971703934479702
+Pessoa: 7 / Peso: 110.0 / Altura: 1.3092568329994558
+Pessoa: 8 / Peso: 120.0 / Altura: 2.198895194911578
+Pessoa: 9 / Peso: 68.0 / Altura: 1.8974042197078846
+Pessoa: 10 / Peso: 96.0 / Altura: 1.9616696408476184
+
+1 pessoas com magreza grave,
+0 pessoas com magreza moderada,
+1 pessoas com magreza leve,
+4 pessoas com saudável,
+1 pessoas com sobrepeso,
+0 pessoas com obesidade grau 1,
+1 pessoas com obesidade grau 2
+e 2 pessoas com obesidade grau 3.
